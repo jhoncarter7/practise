@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#movie {
+    display: flex;
+
+}
+
+.container {
+    /* position: relative; */
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: rgb(243, 216, 184);
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    height: 200px;
+    text-decoration: none;
+
+}
+
+#anime {
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: rgb(243, 216, 184);
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    height: 200px;
+}
